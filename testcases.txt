@@ -1,0 +1,29 @@
+mkdir --help
+mkdir test
+mkdir -v hello
+rm --help
+rm -r testrmR.txt
+rm -v testrmV.txt
+cd ~
+cd --help
+ls
+ls --help
+ls -1
+pwd
+pwd --help
+echo --help
+echo "testing code 2"
+echo -n "testing going on successfully"
+history --help
+history
+history -c
+history
+date 
+date --help
+date -u
+cat echo.txt
+cat --help
+cat -n echo.txt
+exit --help
+history
+exit 0

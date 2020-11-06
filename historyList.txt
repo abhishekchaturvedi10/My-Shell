@@ -1,0 +1,1 @@
+#Stores the commands entered on the shell for the implementation of history command.
